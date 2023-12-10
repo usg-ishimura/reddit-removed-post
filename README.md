@@ -59,6 +59,7 @@ implement a google fake login captive portal, but i'm not going to discuss how t
 Obviously this captive portals don't bypass 2FA if implemented but you could capture email and password.
 
 **Google captive portal exampe:**
+
 ![](images/preview.png)
 
 ## Let's dive into it
