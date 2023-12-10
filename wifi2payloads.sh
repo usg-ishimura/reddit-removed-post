@@ -6,6 +6,7 @@ echo "set proxy captiveflask" >> attack.pulp
 echo "set captiveflask.proxy_port 80" >> attack.pulp
 #echo "set captiveflask.google true" >> attack.pulp
 echo "set captiveflask.DarkLogin true" >> attack.pulp
+
 # Redirection to payloads server (optional)
 
 #echo "set captiveflask.force_redirect_https_connection true" >> attack.pulp
