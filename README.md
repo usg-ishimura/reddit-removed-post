@@ -25,7 +25,7 @@ raspberry in my project has three wireless interfaces one integrated and two ext
 
 - The first integrated one (wlan0) works as a client and it's purpose is to get internet connection from android 4G hotspot 
 (once the victim connects to the AP and you capture data you give them internet access to not raise suspects)  
-and control raspberry pi via ssh from your phone
+and to control raspberry pi via ssh from your phone
 
 - The second one (wlan1) spawns the rogue AP, it's the one wifipumpkin3 uses to capture data
 
@@ -35,7 +35,7 @@ and control raspberry pi via ssh from your phone
 
 If you run a deauth attack to an existing AP and your rogue AP has the same SSID of the one you are attacking, all the clients auto connect to your AP.
 
-![](images/diagram.jpeg)
+![](images/diagram.jpg)
 
 ## What you will need
 
