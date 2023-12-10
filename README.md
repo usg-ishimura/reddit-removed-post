@@ -57,6 +57,7 @@ when clients connect to your AP they are denied internet access until they enter
 The portal can emulate any major authentication method like facebook, microsoft, etc. I uploaded a zip file that contains the code to 
 implement a google fake login captive portal, but i'm not going to discuss how to install it in wifipumpkin3. 
 Obviously this captive portals don't bypass 2FA if implemented but you could capture email and password.
+
 **Google captive portal exampe:**
 ![](images/preview.png)
 
