@@ -23,7 +23,7 @@ Let it be clear that there is no magic recipe that always works, if you are inte
 I initially thought of this proof of concept project as a portable raspberry pi AP to carry around in a backpack that is controlled from a phone,
 raspberry in my project has three wireless interfaces one integrated and two external usb connected ones:
 
-- The first integrated one (wlan0) works as a client and it's purpose is to get internet connection from android 4G hotspot 
+- The first integrated interface (wlan0) works as a client and it's purpose is to get internet connection from android 4G hotspot 
 (once the victim connects to the AP and you capture data you give them internet access to not raise suspects)  
 and to control raspberry pi with ssh from your phone
 
