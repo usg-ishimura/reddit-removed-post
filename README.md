@@ -33,7 +33,7 @@ and to control raspberry pi with ssh from your phone
 
 **Note on the deauthentication part:**
 
-If you run a deauth attack to an existing AP and your rogue AP has the same SSID of the one you are attacking, all the clients auto connect to your AP, jackpot!
+If you run a deauth attack to an existing AP and your rogue AP has the same SSID of the one you are attacking, all the clients auto connect to your AP, **jackpot**!
 
 ![](images/diagram.jpg)
 
