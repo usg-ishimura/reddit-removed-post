@@ -73,7 +73,7 @@ After you enter your password you should be logged in your raspberry pi from you
 I've uploaded two bash scripts in this repo one for deauthenticating `deauth.sh` needs **aircrack-ng** and **mdk4** installed in the raspberry pi,
 one for starting the rogue AP `wifi2payloads.sh` needs **wifipumpkin3** installed on the pi.
 
-After you installed all the dependecies:
+After you installed all the dependecies and cloned this repo to your raspberry, from termux you can launch:
 - `sudo ./wifi2payloads.sh <wireless-interface> <ssid>`, then type & enter `start` in the console to spawn the rogue AP.
 - open another termux session and `sudo ./deauth.sh` to deauth clients from their AP.
 
