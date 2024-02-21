@@ -1,5 +1,5 @@
 
-# reddit-removed-post
+# Reddit removed post
 Configured and programmed raspberry pi to act as a rogue AP that i can control wirelessly from my phone to launch wireless phishing attacks from everywhere.
 
 <!---
